@@ -35,8 +35,7 @@
 ---
 
 <a id="video-content"></a>
-<details>
-<summary><strong>视频内容创作</strong></summary>
+## 视频内容创作
 
 ### 1. [视频帧](https://clawhub.ai/steipete/video-frames)
 
@@ -78,7 +77,7 @@
 - **热度**：⭐ 19 · 下载 3469 · 历史安装 24
 - **简介**：生成精确的、带时间码的 Seedance 2.0 提示词，将多模态输入与资产映射集成，用于可控的 4-15 秒视频创作和编辑。
 
-</details>
+---
 
 <a id="image-design"></a>
 <details>
